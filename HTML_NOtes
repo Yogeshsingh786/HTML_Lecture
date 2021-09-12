@@ -1,0 +1,43 @@
+Hyper Text Markup Language
+
+Mark up --- Tags (HTML)
+Hyper text --> using tags (properties/attributes)
+
+
+
+
+RGB
+2 digits
+
+0-9 A-F
+
+#0E11BB
+
+<!--
+ comments
+-->
+
+HTML
+HEAD
+	TITLE
+Body
+
+	BGCOLOR
+	Background
+	Text
+Font
+	size="2" FACE="VERDANA" COLOR="#AA0OFF"
+	
+HR SIZE=2 WIDTH="100%" (HR stands for horizontal line)	
+	
+H1-H2...
+
+p align="right"/"left"/"center"
+
+BR--> break the line
+
+marquee (you can set scroll directions of html elements either to move towards left/right)
+
+img src="./roadrunner.jpg"
+
+PRE
