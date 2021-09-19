@@ -41,3 +41,10 @@ marquee (you can set scroll directions of html elements either to move towards l
 img src="./roadrunner.jpg"
 
 PRE
+
+table (border)
+tr
+td
+th
+colspan
+rowspan
